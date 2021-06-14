@@ -295,7 +295,7 @@ a.text-button-icon:hover i {
 
 
 .section-heading h6 {
-  font-size: 15px;
+  font-size: 25px;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.25px;
@@ -1652,6 +1652,7 @@ portfolio
 
 #projects {
   padding-top: 120px;
+  height: 100%;
 }
 
 #projects .section-heading {
